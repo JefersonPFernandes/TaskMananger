@@ -1,0 +1,15 @@
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\bin\Debug\net8.0\TaskMananger.Application.deps.json
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\bin\Debug\net8.0\TaskMananger.Application.dll
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\bin\Debug\net8.0\TaskMananger.Application.pdb
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\bin\Debug\net8.0\TaskMananger.Communication.dll
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\bin\Debug\net8.0\TaskMananger.Communication.pdb
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMananger.Application.csproj.AssemblyReference.cache
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMananger.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMananger.Application.AssemblyInfoInputs.cache
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMananger.Application.AssemblyInfo.cs
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMananger.Application.csproj.CoreCompileInputs.cache
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMana.51F4815D.Up2Date
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMananger.Application.dll
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\refint\TaskMananger.Application.dll
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\TaskMananger.Application.pdb
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Application\obj\Debug\net8.0\ref\TaskMananger.Application.dll
