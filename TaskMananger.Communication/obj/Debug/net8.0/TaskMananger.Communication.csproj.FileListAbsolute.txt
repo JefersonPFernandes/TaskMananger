@@ -1,0 +1,11 @@
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\bin\Debug\net8.0\TaskMananger.Communication.deps.json
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\bin\Debug\net8.0\TaskMananger.Communication.dll
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\bin\Debug\net8.0\TaskMananger.Communication.pdb
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\TaskMananger.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\TaskMananger.Communication.AssemblyInfoInputs.cache
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\TaskMananger.Communication.AssemblyInfo.cs
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\TaskMananger.Communication.csproj.CoreCompileInputs.cache
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\TaskMananger.Communication.dll
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\refint\TaskMananger.Communication.dll
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\TaskMananger.Communication.pdb
+D:\FormaçãoCSharp\Projetos\TaskMananger\TaskMananger.Communication\obj\Debug\net8.0\ref\TaskMananger.Communication.dll
